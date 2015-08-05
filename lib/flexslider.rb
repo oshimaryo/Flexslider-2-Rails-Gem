@@ -8,11 +8,6 @@ module Flexslider
 
         app.config.assets.precompile += %w( flexslider.css )
         app.config.assets.precompile += %w( jquery.flexslider.js )
-
-        app.config.assets.precompile += %w( flexslider-icon.eot )
-        app.config.assets.precompile += %w( flexslider-icon.svg )
-        app.config.assets.precompile += %w( flexslider-icon.ttf )
-        app.config.assets.precompile += %w( flexslider-icon.woff )
       end
     end
   end
