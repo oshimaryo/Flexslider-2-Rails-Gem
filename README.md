@@ -2,6 +2,9 @@
 
 Flexslider 2 by Woo Themes - https://github.com/woothemes/FlexSlider
 
+## Revised Points
+* remove font-face
+
 ## Installation
 
 Add this line to your application's Gemfile:
